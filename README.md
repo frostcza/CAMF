@@ -21,7 +21,7 @@ Run `python train_auto_encoder.py` to train the auto-encoder network.
 Run `python train_classifier.py` to train the classifier network.
 
 
-If this work is helpful to you, please cite it as: 
+#### If this work is helpful to you, please cite it as: 
 ```
 @article{tang2023camf,
   title={CAMF: An Interpretable Infrared and Visible Image Fusion Network Based on Class Activation Mapping},
